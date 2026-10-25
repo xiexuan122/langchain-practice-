@@ -1,1 +1,2 @@
 观看主要代码就可以看到我是怎么调用LangChain的
+gitignore中的文件.env文件数关于智谱的api_key与langsmith的api_key，LangSmith用于追踪代码调用大模型的过程
